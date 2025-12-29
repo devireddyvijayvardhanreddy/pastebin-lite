@@ -230,5 +230,7 @@ MIT License - Feel free to use this project for any purpose.
 Devireddyvijayvardhanreddy
 
 ## Support
+## Deployment
+Deployed at: https://pastebin-lite-app.vercel.app
 
 For issues or questions, please open a GitHub issue on the repository.
